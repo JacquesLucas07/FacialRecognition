@@ -1,0 +1,36 @@
+# Fichiers générés automatiquement
+face_encodings.pkl
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+
+# Environnements virtuels
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Screenshots
+screenshot_*.jpg
+screenshot_*.png
+
+# Dossiers de test
+test_images/
+temp/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
